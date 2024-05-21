@@ -1,0 +1,2 @@
+# PREDICTING-CUSTOMER-CHURN-USING-MACHINE-LEARNING-ALGORITHMS
+This project entails building a classifier model to predict whether a customer will stop doing business with Syria Tel, a telecommunications company. This is a binary classification problem.  Most naturally, telecommunication businesses would be interested in reducing how much money is lost when a customers does not stick around for a long time.
