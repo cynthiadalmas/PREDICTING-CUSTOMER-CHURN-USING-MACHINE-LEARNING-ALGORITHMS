@@ -126,9 +126,6 @@ Six models were fit on the churning dataset and the best model which is Decision
 
 **The tree splits**
  
-![image](https://github.com/cynthiadalmas/PREDICTING-CUSTOMER-CHURN-USING-MACHINE-LEARNING-ALGORITHMS/assets/128845927/da38c6e7-64c0-4eff-b622-8cf09222d2dc)
-
-   
   **ANALYZING THE CONFUSION MATRIX FOR DECISION TREE MODEL.**
 
    ![image](https://github.com/cynthiadalmas/PREDICTING-CUSTOMER-CHURN-USING-MACHINE-LEARNING-ALGORITHMS/assets/128845927/1ae55b93-7f11-4dd6-bd75-6b458ab4db0f)
